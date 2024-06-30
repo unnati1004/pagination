@@ -34,3 +34,10 @@
   border: 1px solid grey;
   cursor: pointer;
 }
+
+.pagination__selected{
+  background-color: rgb(211, 213, 215);
+}
+.pagination__disabled {
+  opacity: 0;
+}

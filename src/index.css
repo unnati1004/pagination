@@ -1,4 +1,4 @@
-.products{
+/* .products{
   margin: 20px;
   padding: 0;
   display: grid;
@@ -40,4 +40,10 @@
 }
 .pagination__disabled {
   opacity: 0;
-}
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
